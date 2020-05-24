@@ -2,14 +2,14 @@
 title: Roadmap
 description: Past, Present and Future version feature information.
 published: true
-date: 2020-05-17T22:02:28.809Z
+date: 2020-05-24T16:33:04.109Z
 tags: 
 ---
 
 # Current Version
 
-## Version 3.0 (In Development)
-Release: *May-July 2020*
+## Version 0.3.0 (In Development)
+Release: *Sometime 2020*
 
 **Features:**
 * [x] Lobby
@@ -38,7 +38,7 @@ Release: *May-July 2020*
 
 ## Version 0 (Alpha)
 
-### Version 0.4
+### Version 0.0.4
 Release: *Undocumented*
 
 **Features:**
@@ -49,7 +49,7 @@ Release: *Undocumented*
 **Bug Fixes:**
 * [x] Created a whole bunch
 
-## Version 1.0 (Beta)
+## Version 0.1.0 (Beta)
 Release: *Undocumented*
 
 **Features:**
@@ -59,7 +59,7 @@ Release: *Undocumented*
 **Bug Fixes:**
 * [x] Created many
 
-### Version 1.1
+### Version 0.1.1
 Release: *Undocumented*
 
 **Features:**
@@ -69,7 +69,7 @@ Release: *Undocumented*
 **Bug Fixes:**
 * [x] Debugged
 
-## Version 2.0 (Beta)
+## Version 0.2.0 (Beta)
 Release: *Undocumented*
 
 **Features:**
@@ -79,7 +79,7 @@ Release: *Undocumented*
 **Bug Fixes:**
 * [x] Debug pack
 
-### Version 2.7 (Beta)
+### Version 0.2.7 (Beta)
 Release: *Undocumented*
 
 **Features:**
@@ -90,7 +90,7 @@ Release: *Undocumented*
 
 # Future Versions
 
-## Version 3.1 (Bug Fix Release)
+## Version 0.3.1 (Bug Fix Release)
 Release: *Planned*
 
 **Features:**
@@ -99,11 +99,12 @@ Release: *Planned*
 **Bug Fixes:**
 * [ ] Remove ability to escape lobby
 
-## Version 4.0 (Release)
+## Version 0.4.0 (Release)
 Release: *Planned*
 
 **Features:**
 * [ ] Team play option
 * [ ] Lobby Completion
+* [ ] Different drop/start modes (Hunger Games, Random Spread, Battle Royal Plane Drop)
 
 **Bug Fixes:**
