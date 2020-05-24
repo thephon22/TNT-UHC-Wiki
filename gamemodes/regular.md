@@ -2,7 +2,7 @@
 title: Regular
 description: Details related to the Regular mode. Includes timing details, estimated play time and recommended about of players.
 published: true
-date: 2020-05-24T18:29:29.672Z
+date: 2020-05-24T18:30:12.697Z
 tags: 
 ---
 
@@ -34,10 +34,6 @@ Time | Current Size | New Size | Duration | Rate
 1h5m | 500 | 250 | 10m | 0.42 blocks/sec
 1h15m | 250 | 100 | 5m | 0.5 blocks/sec
 1h25m | 100 | 50 | 5m | 0.17 blocks/sec
-
---- | ---
-0m | Border is 2000 blocks wide
-30m | The border begins to shrink to 1000 blocks wide
 
 ## Loot Drops
 
