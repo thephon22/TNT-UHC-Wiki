@@ -2,7 +2,7 @@
 title: Regular
 description: Details related to the Regular mode. Includes timing details, estimated play time and recommended about of players.
 published: true
-date: 2020-05-17T22:02:41.603Z
+date: 2020-05-24T18:22:32.313Z
 tags: 
 ---
 
@@ -24,9 +24,13 @@ Time | Size | Rate
 1h15m | 250>100 | 5m
 1h25m | 100>50 | 5m
 
+The border starts at 2000 blocks wide, 1000 blocks around the centre. The wall will shrink to 50 blocks wide in a series of stages with announcements being made. This will take approximately 1h25m.
+
+
+
 ## Loot Drops
 
-Please look at [Drops & Sponsorships](/docs/drops) for details about regarding the contents of loot tables.
+Please see [Drops & Sponsorships](/docs/drops) for details about regarding the contents of loot tables.
 
 Time | Loot
 ---:|---
