@@ -2,7 +2,7 @@
 title: Regular
 description: Details related to the Regular mode. Includes timing details, estimated play time and recommended about of players.
 published: true
-date: 2020-05-24T18:30:19.769Z
+date: 2020-05-24T18:31:36.431Z
 tags: 
 ---
 
@@ -30,10 +30,10 @@ Time | Current Size | New Size | Duration | Rate
 
 Please see [Drops & Sponsorships](/docs/drops) for details regarding the contents of the loot drops, as well as detailed information about the loot tables.
 
-Time | Loot
----:|---
-5m | Starter
-60m | General
-1h20m | General
+Time | Loot Type
+:---:|:---:
+5m | Starter Kit
+60m | General Drop
+1h20m | General Drop
 
 ## Sponsorships
