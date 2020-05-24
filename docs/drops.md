@@ -2,7 +2,7 @@
 title: Drops & Sponsorships
 description: Information about loot drops and sponsorships available in the game.
 published: true
-date: 2020-05-17T22:02:31.383Z
+date: 2020-05-24T18:31:49.461Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Name dictates the name of the table to be referenced in the pack. Global quantit
 
 Item weight will be out of a total of 100.
 
-## Starter
+## Starter Kit
 
 Name: starter
 Global Quantity: 5-10
