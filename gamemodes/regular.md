@@ -2,7 +2,7 @@
 title: Regular
 description: Details related to the Regular mode. Includes timing details, estimated play time and recommended about of players.
 published: true
-date: 2020-05-24T18:22:32.313Z
+date: 2020-05-24T18:23:07.354Z
 tags: 
 ---
 
@@ -30,7 +30,7 @@ The border starts at 2000 blocks wide, 1000 blocks around the centre. The wall w
 
 ## Loot Drops
 
-Please see [Drops & Sponsorships](/docs/drops) for details about regarding the contents of loot tables.
+Please see [Drops & Sponsorships](/docs/drops) for details regarding the contents of the loot drops, as well as detailed information about the loot tables.
 
 Time | Loot
 ---:|---
